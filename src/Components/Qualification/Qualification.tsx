@@ -25,14 +25,14 @@ const Qualification = () => {
               <div className="mt-1 flex">
                 <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                 <div className="md:-mt-1 md:pl-8">
-                  <span className="block font-body font-bold text-grey-40">
-                    May 2025 (Current)
-                  </span>
                   <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
                     IT Specialist
                   </span>
                   <span className="block font-body font-bold text-grey-40">
                   Epson Precision Philippines Inc
+                  </span>
+                  <span className="block font-body font-bold text-grey-40">
+                    May 2025 (Current)
                   </span>
                   <div className="pt-2">
                     <span className="block font-body text-black">
@@ -58,14 +58,14 @@ const Qualification = () => {
               <div className="mt-1 flex">
                 <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                 <div className="md:-mt-1 md:pl-8">
-                  <span className="block font-body font-bold text-grey-40">
-                    Mar 2024 - July 2024
-                  </span>
                   <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
                     IT Intern
                   </span>
                   <span className="block font-body font-bold text-grey-40">
                     Knowles Training Intitute
+                  </span>
+                  <span className="block font-body font-bold text-grey-40">
+                    Mar 2024 - July 2024
                   </span>
                   <div className="pt-2">
                     <span className="block font-body text-black">
