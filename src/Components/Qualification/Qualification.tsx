@@ -29,7 +29,7 @@ const Qualification = () => {
                     May 2025 (Current)
                   </span>
                   <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
-                    IT Staff
+                    IT Specialist
                   </span>
                   <span className="block font-body font-bold text-grey-40">
                   Epson Precision Philippines Inc
