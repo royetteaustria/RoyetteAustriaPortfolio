@@ -26,7 +26,7 @@ const Qualification = () => {
                 <i className="bx bxs-right-arrow hidden text-primary md:block"></i>
                 <div className="md:-mt-1 md:pl-8">
                   <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
-                    IT Specialist
+                    Power Platform Developer
                   </span>
                   <span className="block font-body font-bold text-black-40">
                   Epson Precision Philippines Inc
@@ -37,9 +37,12 @@ const Qualification = () => {
                   <div className="pt-2">
                     <span className="block font-body text-black">
                       {" "}
-                      • Creates databases and data marts for <b>Power BI</b> reporting using Microsoft <b>SQL Server</b> <br />
-                      • Designs and develops internal business applications using <b>Microsoft Power Apps</b><br />
-                      • Automates workflows and business processes with <b>Power Automate</b><br />
+                      • Creates databases and data marts for <b>Power BI</b> reporting using <b>Microsoft SQL Server</b>.<br />
+                      • Designs and develops internal business applications using <b>Microsoft Power Apps</b>.<br />
+                      • Automates workflows and business processes with <b>Microsoft Power Automate</b>.<br />
+                      • Designs and develops internal dashboards using <b>Microsoft Power BI</b>.<br />
+                      • Integrates <b>SharePoint Lists</b> with <b>Microsoft Power Apps</b> to manage and display data.<br />
+                      • Develops AI-powered chatbots using <b>Microsoft Copilot Studio</b>.<br />
                     </span>
                   </div>
                 </div>
